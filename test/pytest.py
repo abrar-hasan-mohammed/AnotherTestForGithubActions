@@ -1,1 +1,1 @@
-print('Test Succeed')
+ assert(1 == 2, 'Fail !')
